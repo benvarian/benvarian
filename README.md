@@ -1,7 +1,7 @@
 # Ben Varian
 **`Cyber Security & Computer Science Student`**
 
-I am a student at the Universtiy of Western Australia who is interested in cyber security as well as computer science. In the future I hope too reveal people just how vulnerable we really are to cyber attacks, as well as mitigation steps to protect ourselves now and into the future. Here you will find my coding projects as well as some other little things. This is my hub for all things coding & cyber security related so feel free to look around. 
+I am a student at the Universtiy of Western Australia who is interested in cyber security as well as computer science. In the future I hope to reveal to people just how vulnerable we really are to cyber attacks, as well as mitigation steps to protect ourselves now and into the future. Here you will find my coding projects as well as some other little things. This is my hub for all things coding & cyber security related so feel free to look around. 
 
 ---
 
