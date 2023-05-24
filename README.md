@@ -20,16 +20,13 @@ I am a student at the Universtiy of Western Australia who is interested in cyber
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Sqlite" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <br>
+<img align="left" alt="Sqlite" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <br>          
 
 # 
 
 ### 📊 Stats
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benvarian&show_icons=true&theme=dark&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benvarian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
           
 <!---
 benvarian/benvarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
